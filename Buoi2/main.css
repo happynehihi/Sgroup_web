@@ -1,0 +1,21 @@
+.all .inline .number {
+    display: inline-block;
+    width: 100px;
+    color: #F26464;
+}
+
+.all .inline .number span {
+    display: block;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.all .inline .number p {
+    display: inline-block;
+    color: #373737;
+}
+
+.aboutme {
+    display: inline-block;
+    border-bottom: solid red;
+}
